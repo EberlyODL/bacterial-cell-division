@@ -3,6 +3,8 @@
   "main": "bacterial-cell-division.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.9.0"
+    "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0",
+    "greensock-cdn": "EberlyODl/greensock#^0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
