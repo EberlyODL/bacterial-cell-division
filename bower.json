@@ -2,7 +2,7 @@
   "name": "bacterial-cell-division",
   "main": "bacterial-cell-division.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.9.0"
+    "polymer": "Polymer/polymer#^1.9.0",
     "lrndesign-animationctrl": "LRNWebComponents/lrndesign-animationctrl#^0.0.2",
     "greensock-cdn": "EberlyODl/greensock#^0.0.1"
   },
